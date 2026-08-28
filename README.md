@@ -70,3 +70,23 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 3. **`POINTER / INDEX ADJUSTMENT RATIONALE`** – Detailed rationale for index updates (`start = mid + 1`, `end = mid - 1`) preventing infinite loops.
 4. **`EDGE CASE HANDLING`** – Handling boundary checks, 0-indexing, empty arrays, and variable copies (`originalNum`).
 5. **`UNIQUE FORMULA & LOGIC`** – Math formulas (`mid = start + (end - start)/2`, `rem = num % 10`, `end = end + (end - start + 1) * 2`).
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Saransh-27/DSA-JAVA/tree/master/0645-set-mismatch) |
+## Hash Table
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Saransh-27/DSA-JAVA/tree/master/0645-set-mismatch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Saransh-27/DSA-JAVA/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Saransh-27/DSA-JAVA/tree/master/0645-set-mismatch) |
+<!---LeetCode Topics End-->
