@@ -87,6 +87,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1095-find-in-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Saransh-27/DSA-JAVA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Saransh-27/DSA-JAVA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1929-concatenation-of-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Saransh-27/DSA-JAVA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -158,4 +159,8 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Saransh-27/DSA-JAVA/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
