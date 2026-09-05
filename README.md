@@ -86,6 +86,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Saransh-27/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/0867-transpose-matrix) |
 | [1095-find-in-mountain-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1095-find-in-mountain-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Saransh-27/DSA-JAVA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -170,6 +171,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Saransh-27/DSA-JAVA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Saransh-27/DSA-JAVA/tree/master/1920-build-array-from-permutation) |
@@ -182,6 +184,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Saransh-27/DSA-JAVA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Saransh-27/DSA-JAVA/tree/master/1672-richest-customer-wealth) |
