@@ -78,6 +78,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | ------- |
 | [0001-two-sum](https://github.com/Saransh-27/DSA-JAVA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Saransh-27/DSA-JAVA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Saransh-27/DSA-JAVA/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/Saransh-27/DSA-JAVA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0268-missing-number) |
@@ -195,4 +196,12 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | ------- |
 | [1773-count-items-matching-a-rule](https://github.com/Saransh-27/DSA-JAVA/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Saransh-27/DSA-JAVA/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Saransh-27/DSA-JAVA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Saransh-27/DSA-JAVA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
