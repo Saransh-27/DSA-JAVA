@@ -81,6 +81,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0053-maximum-subarray](https://github.com/Saransh-27/DSA-JAVA/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Saransh-27/DSA-JAVA/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Saransh-27/DSA-JAVA/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Saransh-27/DSA-JAVA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0287-find-the-duplicate-number) |
@@ -124,6 +125,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Saransh-27/DSA-JAVA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Saransh-27/DSA-JAVA/tree/master/0645-set-mismatch) |
@@ -132,6 +134,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Saransh-27/DSA-JAVA/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -207,4 +210,12 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Saransh-27/DSA-JAVA/tree/master/0053-maximum-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Saransh-27/DSA-JAVA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Saransh-27/DSA-JAVA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
