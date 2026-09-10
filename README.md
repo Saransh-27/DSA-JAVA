@@ -146,6 +146,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0162-find-peak-element](https://github.com/Saransh-27/DSA-JAVA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Saransh-27/DSA-JAVA/tree/master/0374-guess-number-higher-or-lower) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1095-find-in-mountain-array) |
 ## Pigeonhole Principle
@@ -168,6 +169,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 ## Interactive
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Saransh-27/DSA-JAVA/tree/master/0374-guess-number-higher-or-lower) |
 | [1095-find-in-mountain-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1095-find-in-mountain-array) |
 ## Ternary Search
 |  |
