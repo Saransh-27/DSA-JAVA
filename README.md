@@ -150,6 +150,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0268-missing-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Saransh-27/DSA-JAVA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/Saransh-27/DSA-JAVA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Saransh-27/DSA-JAVA/tree/master/0374-guess-number-higher-or-lower) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1095-find-in-mountain-array) |
@@ -166,6 +167,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | ------- |
 | [0066-plus-one](https://github.com/Saransh-27/DSA-JAVA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Saransh-27/DSA-JAVA/tree/master/0367-valid-perfect-square) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Saransh-27/DSA-JAVA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Saransh-27/DSA-JAVA/tree/master/1295-find-numbers-with-even-number-of-digits) |
