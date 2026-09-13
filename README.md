@@ -105,6 +105,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Saransh-27/DSA-JAVA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Saransh-27/DSA-JAVA/tree/master/1512-number-of-good-pairs) |
+| [1539-kth-missing-positive-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Saransh-27/DSA-JAVA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Saransh-27/DSA-JAVA/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Saransh-27/DSA-JAVA/tree/master/1732-find-the-highest-altitude) |
@@ -163,6 +164,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1095-find-in-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1539-kth-missing-positive-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/1539-kth-missing-positive-number) |
 ## Pigeonhole Principle
 |  |
 | ------- |
