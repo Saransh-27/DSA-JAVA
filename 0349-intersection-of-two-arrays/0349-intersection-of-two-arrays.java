@@ -8,16 +8,18 @@ class Solution {
     }
 
     public int[] find(int[] arr, int[] target){
+
+        HashSet<Integer> result = new HashSet<>();
         HashSet<Integer> set = new HashSet<>();
-        int index = 0;
-        while(index < target.length){
-        for(int i=0; i < arr.length; i++){
-            if(target[index] == arr[i]){
-                set.add(target[index]);
+        for(int i: target){
+            set.add(i);
+        }
+        
+        for(int i: arr){
+            if(set.contains(i)){
+                result.add(i);
             }
         }
-        index++;
-        }
-        return set.stream().mapToInt(Integer::intValue).toArray();
+        return result.stream().mapToInt(Integer::intValue).toArray();
     }
 }
