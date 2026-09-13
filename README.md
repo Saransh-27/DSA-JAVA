@@ -79,6 +79,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0001-two-sum](https://github.com/Saransh-27/DSA-JAVA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Saransh-27/DSA-JAVA/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Saransh-27/DSA-JAVA/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Saransh-27/DSA-JAVA/tree/master/0066-plus-one) |
@@ -153,6 +154,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Saransh-27/DSA-JAVA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saransh-27/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0268-missing-number) |
