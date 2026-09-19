@@ -28,11 +28,6 @@ class Solution {
         for (int i : piles) {
              sum += (i + mid - 1) / mid;
         }
-
-        if (sum <= h) {
-            return true;
-        }
-
-        return false;
+        return sum <= h;
     }
 }
