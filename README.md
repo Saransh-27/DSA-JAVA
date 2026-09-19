@@ -100,6 +100,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Saransh-27/DSA-JAVA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saransh-27/DSA-JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1095-find-in-mountain-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Saransh-27/DSA-JAVA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -174,6 +175,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0754-reach-a-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0754-reach-a-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Saransh-27/DSA-JAVA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saransh-27/DSA-JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1095-find-in-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/1539-kth-missing-positive-number) |
