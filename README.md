@@ -115,6 +115,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [1512-number-of-good-pairs](https://github.com/Saransh-27/DSA-JAVA/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Saransh-27/DSA-JAVA/tree/master/1572-matrix-diagonal-sum) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Saransh-27/DSA-JAVA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1672-richest-customer-wealth](https://github.com/Saransh-27/DSA-JAVA/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Saransh-27/DSA-JAVA/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/Saransh-27/DSA-JAVA/tree/master/1773-count-items-matching-a-rule) |
@@ -149,6 +150,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0349-intersection-of-two-arrays](https://github.com/Saransh-27/DSA-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Saransh-27/DSA-JAVA/tree/master/0645-set-mismatch) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Saransh-27/DSA-JAVA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Saransh-27/DSA-JAVA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Two Pointers
 |  |
@@ -184,6 +186,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [1095-find-in-mountain-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1095-find-in-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/1539-kth-missing-positive-number) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Saransh-27/DSA-JAVA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1901-find-a-peak-element-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/1901-find-a-peak-element-ii) |
 ## Pigeonhole Principle
 |  |
