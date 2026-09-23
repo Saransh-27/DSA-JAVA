@@ -97,6 +97,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/0566-reshape-the-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Saransh-27/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Saransh-27/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Saransh-27/DSA-JAVA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -151,6 +152,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0268-missing-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Saransh-27/DSA-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Saransh-27/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Saransh-27/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Saransh-27/DSA-JAVA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Saransh-27/DSA-JAVA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -207,6 +209,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0189-rotate-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Saransh-27/DSA-JAVA/tree/master/0367-valid-perfect-square) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Saransh-27/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0754-reach-a-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0754-reach-a-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Saransh-27/DSA-JAVA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
