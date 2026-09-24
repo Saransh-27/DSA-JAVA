@@ -105,6 +105,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0875-koko-eating-bananas](https://github.com/Saransh-27/DSA-JAVA/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saransh-27/DSA-JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Saransh-27/DSA-JAVA/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/Saransh-27/DSA-JAVA/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1095-find-in-mountain-array) |
 | [1200-minimum-absolute-difference](https://github.com/Saransh-27/DSA-JAVA/tree/master/1200-minimum-absolute-difference) |
@@ -158,6 +159,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0628-maximum-product-of-three-numbers](https://github.com/Saransh-27/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Saransh-27/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Saransh-27/DSA-JAVA/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/Saransh-27/DSA-JAVA/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Saransh-27/DSA-JAVA/tree/master/1200-minimum-absolute-difference) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Saransh-27/DSA-JAVA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -218,6 +220,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0367-valid-perfect-square](https://github.com/Saransh-27/DSA-JAVA/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saransh-27/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0754-reach-a-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0754-reach-a-number) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Saransh-27/DSA-JAVA/tree/master/1030-matrix-cells-in-distance-order) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Saransh-27/DSA-JAVA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Saransh-27/DSA-JAVA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -259,6 +262,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0059-spiral-matrix-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/0867-transpose-matrix) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Saransh-27/DSA-JAVA/tree/master/1030-matrix-cells-in-distance-order) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Saransh-27/DSA-JAVA/tree/master/1572-matrix-diagonal-sum) |
@@ -295,4 +299,8 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Saransh-27/DSA-JAVA/tree/master/1051-height-checker) |
+## Geometry
+|  |
+| ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/Saransh-27/DSA-JAVA/tree/master/1030-matrix-cells-in-distance-order) |
 <!---LeetCode Topics End-->
