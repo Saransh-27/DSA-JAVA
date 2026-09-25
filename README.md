@@ -103,6 +103,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Saransh-27/DSA-JAVA/tree/master/0875-koko-eating-bananas) |
+| [0976-largest-perimeter-triangle](https://github.com/Saransh-27/DSA-JAVA/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saransh-27/DSA-JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Saransh-27/DSA-JAVA/tree/master/1030-matrix-cells-in-distance-order) |
@@ -158,6 +159,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saransh-27/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Saransh-27/DSA-JAVA/tree/master/0645-set-mismatch) |
+| [0976-largest-perimeter-triangle](https://github.com/Saransh-27/DSA-JAVA/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Saransh-27/DSA-JAVA/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/Saransh-27/DSA-JAVA/tree/master/1051-height-checker) |
@@ -220,6 +222,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0367-valid-perfect-square](https://github.com/Saransh-27/DSA-JAVA/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saransh-27/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0754-reach-a-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0754-reach-a-number) |
+| [0976-largest-perimeter-triangle](https://github.com/Saransh-27/DSA-JAVA/tree/master/0976-largest-perimeter-triangle) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Saransh-27/DSA-JAVA/tree/master/1030-matrix-cells-in-distance-order) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Saransh-27/DSA-JAVA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -286,6 +289,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Saransh-27/DSA-JAVA/tree/master/0075-sort-colors) |
+| [0976-largest-perimeter-triangle](https://github.com/Saransh-27/DSA-JAVA/tree/master/0976-largest-perimeter-triangle) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -294,6 +298,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 ## Greedy
 |  |
 | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Saransh-27/DSA-JAVA/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Saransh-27/DSA-JAVA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Counting Sort
 |  |
@@ -303,4 +308,8 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 |  |
 | ------- |
 | [1030-matrix-cells-in-distance-order](https://github.com/Saransh-27/DSA-JAVA/tree/master/1030-matrix-cells-in-distance-order) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Saransh-27/DSA-JAVA/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
