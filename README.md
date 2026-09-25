@@ -93,6 +93,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0268-missing-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Saransh-27/DSA-JAVA/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -158,6 +159,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0088-merge-sorted-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Saransh-27/DSA-JAVA/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saransh-27/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Saransh-27/DSA-JAVA/tree/master/0645-set-mismatch) |
