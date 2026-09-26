@@ -81,6 +81,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0027-remove-element](https://github.com/Saransh-27/DSA-JAVA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Saransh-27/DSA-JAVA/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Saransh-27/DSA-JAVA/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Saransh-27/DSA-JAVA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Saransh-27/DSA-JAVA/tree/master/0075-sort-colors) |
@@ -158,6 +159,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Saransh-27/DSA-JAVA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Saransh-27/DSA-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Saransh-27/DSA-JAVA/tree/master/0217-contains-duplicate) |
@@ -302,6 +304,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Saransh-27/DSA-JAVA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Saransh-27/DSA-JAVA/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Saransh-27/DSA-JAVA/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/Saransh-27/DSA-JAVA/tree/master/0976-largest-perimeter-triangle) |
