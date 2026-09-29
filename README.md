@@ -77,6 +77,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saransh-27/DSA-JAVA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Saransh-27/DSA-JAVA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Saransh-27/DSA-JAVA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
@@ -159,6 +160,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Saransh-27/DSA-JAVA/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Saransh-27/DSA-JAVA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Saransh-27/DSA-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0088-merge-sorted-array) |
@@ -184,6 +186,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Saransh-27/DSA-JAVA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Saransh-27/DSA-JAVA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Saransh-27/DSA-JAVA/tree/master/0075-sort-colors) |
