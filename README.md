@@ -130,6 +130,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Saransh-27/DSA-JAVA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Saransh-27/DSA-JAVA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/Saransh-27/DSA-JAVA/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/Saransh-27/DSA-JAVA/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Saransh-27/DSA-JAVA/tree/master/1572-matrix-diagonal-sum) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Saransh-27/DSA-JAVA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -299,6 +300,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 ## String
 |  |
 | ------- |
+| [1528-shuffle-string](https://github.com/Saransh-27/DSA-JAVA/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/Saransh-27/DSA-JAVA/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Saransh-27/DSA-JAVA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
