@@ -268,6 +268,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Saransh-27/DSA-JAVA/tree/master/1512-number-of-good-pairs) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Saransh-27/DSA-JAVA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Saransh-27/DSA-JAVA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Simulation
 |  |
@@ -303,6 +304,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [1108-defanging-an-ip-address](https://github.com/Saransh-27/DSA-JAVA/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Saransh-27/DSA-JAVA/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/Saransh-27/DSA-JAVA/tree/master/1678-goal-parser-interpretation) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Saransh-27/DSA-JAVA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/Saransh-27/DSA-JAVA/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Saransh-27/DSA-JAVA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
