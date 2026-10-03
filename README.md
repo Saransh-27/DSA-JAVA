@@ -278,6 +278,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/0566-reshape-the-matrix) |
+| [0657-robot-return-to-origin](https://github.com/Saransh-27/DSA-JAVA/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Saransh-27/DSA-JAVA/tree/master/1389-create-target-array-in-the-given-order) |
@@ -306,6 +307,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | ------- |
 | [0013-roman-to-integer](https://github.com/Saransh-27/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Saransh-27/DSA-JAVA/tree/master/0058-length-of-last-word) |
+| [0657-robot-return-to-origin](https://github.com/Saransh-27/DSA-JAVA/tree/master/0657-robot-return-to-origin) |
 | [1108-defanging-an-ip-address](https://github.com/Saransh-27/DSA-JAVA/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Saransh-27/DSA-JAVA/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1528-shuffle-string](https://github.com/Saransh-27/DSA-JAVA/tree/master/1528-shuffle-string) |
