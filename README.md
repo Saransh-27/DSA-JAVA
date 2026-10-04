@@ -207,6 +207,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0905-sort-array-by-parity](https://github.com/Saransh-27/DSA-JAVA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
+| [2000-reverse-prefix-of-word](https://github.com/Saransh-27/DSA-JAVA/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
 |  |
 | ------- |
@@ -322,6 +323,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Saransh-27/DSA-JAVA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1871-jump-game-vii](https://github.com/Saransh-27/DSA-JAVA/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saransh-27/DSA-JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2000-reverse-prefix-of-word](https://github.com/Saransh-27/DSA-JAVA/tree/master/2000-reverse-prefix-of-word) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -365,4 +367,8 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/Saransh-27/DSA-JAVA/tree/master/1871-jump-game-vii) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/Saransh-27/DSA-JAVA/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
