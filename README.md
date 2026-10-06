@@ -322,6 +322,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [1704-determine-if-string-halves-are-alike](https://github.com/Saransh-27/DSA-JAVA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Saransh-27/DSA-JAVA/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/Saransh-27/DSA-JAVA/tree/master/1773-count-items-matching-a-rule) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Saransh-27/DSA-JAVA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Saransh-27/DSA-JAVA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1871-jump-game-vii](https://github.com/Saransh-27/DSA-JAVA/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saransh-27/DSA-JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
