@@ -318,6 +318,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [1108-defanging-an-ip-address](https://github.com/Saransh-27/DSA-JAVA/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Saransh-27/DSA-JAVA/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1528-shuffle-string](https://github.com/Saransh-27/DSA-JAVA/tree/master/1528-shuffle-string) |
+| [1668-maximum-repeating-substring](https://github.com/Saransh-27/DSA-JAVA/tree/master/1668-maximum-repeating-substring) |
 | [1678-goal-parser-interpretation](https://github.com/Saransh-27/DSA-JAVA/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Saransh-27/DSA-JAVA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Saransh-27/DSA-JAVA/tree/master/1768-merge-strings-alternately) |
@@ -335,6 +336,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Saransh-27/DSA-JAVA/tree/master/0053-maximum-subarray) |
+| [1668-maximum-repeating-substring](https://github.com/Saransh-27/DSA-JAVA/tree/master/1668-maximum-repeating-substring) |
 | [1871-jump-game-vii](https://github.com/Saransh-27/DSA-JAVA/tree/master/1871-jump-game-vii) |
 ## Quicksort
 |  |
@@ -374,4 +376,8 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/Saransh-27/DSA-JAVA/tree/master/2000-reverse-prefix-of-word) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/Saransh-27/DSA-JAVA/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
