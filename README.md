@@ -198,6 +198,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0027-remove-element](https://github.com/Saransh-27/DSA-JAVA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Saransh-27/DSA-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Saransh-27/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saransh-27/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0287-find-the-duplicate-number) |
@@ -313,6 +314,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | ------- |
 | [0013-roman-to-integer](https://github.com/Saransh-27/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Saransh-27/DSA-JAVA/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Saransh-27/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Saransh-27/DSA-JAVA/tree/master/0168-excel-sheet-column-title) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Saransh-27/DSA-JAVA/tree/master/0657-robot-return-to-origin) |
