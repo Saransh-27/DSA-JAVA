@@ -206,6 +206,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0557-reverse-words-in-a-string-iii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/Saransh-27/DSA-JAVA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0922-sort-array-by-parity-ii) |
+| [0925-long-pressed-name](https://github.com/Saransh-27/DSA-JAVA/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Saransh-27/DSA-JAVA/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Saransh-27/DSA-JAVA/tree/master/2000-reverse-prefix-of-word) |
@@ -315,6 +316,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0168-excel-sheet-column-title](https://github.com/Saransh-27/DSA-JAVA/tree/master/0168-excel-sheet-column-title) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Saransh-27/DSA-JAVA/tree/master/0657-robot-return-to-origin) |
+| [0925-long-pressed-name](https://github.com/Saransh-27/DSA-JAVA/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/Saransh-27/DSA-JAVA/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Saransh-27/DSA-JAVA/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1528-shuffle-string](https://github.com/Saransh-27/DSA-JAVA/tree/master/1528-shuffle-string) |
