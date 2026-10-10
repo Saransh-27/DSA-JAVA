@@ -77,6 +77,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saransh-27/DSA-JAVA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Saransh-27/DSA-JAVA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Saransh-27/DSA-JAVA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Saransh-27/DSA-JAVA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -317,6 +318,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Saransh-27/DSA-JAVA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Saransh-27/DSA-JAVA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Saransh-27/DSA-JAVA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Saransh-27/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Saransh-27/DSA-JAVA/tree/master/0168-excel-sheet-column-title) |
@@ -392,4 +394,8 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/Saransh-27/DSA-JAVA/tree/master/1668-maximum-repeating-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Saransh-27/DSA-JAVA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
