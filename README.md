@@ -107,6 +107,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0628-maximum-product-of-three-numbers](https://github.com/Saransh-27/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Saransh-27/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Saransh-27/DSA-JAVA/tree/master/0704-binary-search) |
+| [0848-shifting-letters](https://github.com/Saransh-27/DSA-JAVA/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Saransh-27/DSA-JAVA/tree/master/0875-koko-eating-bananas) |
@@ -300,6 +301,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 ## Prefix Sum
 |  |
 | ------- |
+| [0848-shifting-letters](https://github.com/Saransh-27/DSA-JAVA/tree/master/0848-shifting-letters) |
 | [1480-running-sum-of-1d-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Saransh-27/DSA-JAVA/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Saransh-27/DSA-JAVA/tree/master/1871-jump-game-vii) |
@@ -327,6 +329,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0557-reverse-words-in-a-string-iii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Saransh-27/DSA-JAVA/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0680-valid-palindrome-ii) |
+| [0848-shifting-letters](https://github.com/Saransh-27/DSA-JAVA/tree/master/0848-shifting-letters) |
 | [0925-long-pressed-name](https://github.com/Saransh-27/DSA-JAVA/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/Saransh-27/DSA-JAVA/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Saransh-27/DSA-JAVA/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
