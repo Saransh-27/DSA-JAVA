@@ -123,6 +123,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Saransh-27/DSA-JAVA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Saransh-27/DSA-JAVA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1324-print-words-vertically](https://github.com/Saransh-27/DSA-JAVA/tree/master/1324-print-words-vertically) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Saransh-27/DSA-JAVA/tree/master/1389-create-target-array-in-the-given-order) |
@@ -292,6 +293,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0657-robot-return-to-origin](https://github.com/Saransh-27/DSA-JAVA/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1324-print-words-vertically](https://github.com/Saransh-27/DSA-JAVA/tree/master/1324-print-words-vertically) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Saransh-27/DSA-JAVA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Saransh-27/DSA-JAVA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1929-concatenation-of-array) |
@@ -328,6 +330,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0925-long-pressed-name](https://github.com/Saransh-27/DSA-JAVA/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/Saransh-27/DSA-JAVA/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Saransh-27/DSA-JAVA/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1324-print-words-vertically](https://github.com/Saransh-27/DSA-JAVA/tree/master/1324-print-words-vertically) |
 | [1528-shuffle-string](https://github.com/Saransh-27/DSA-JAVA/tree/master/1528-shuffle-string) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Saransh-27/DSA-JAVA/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1668-maximum-repeating-substring](https://github.com/Saransh-27/DSA-JAVA/tree/master/1668-maximum-repeating-substring) |
