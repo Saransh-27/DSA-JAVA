@@ -117,6 +117,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0977-squares-of-a-sorted-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Saransh-27/DSA-JAVA/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saransh-27/DSA-JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1023-camelcase-matching](https://github.com/Saransh-27/DSA-JAVA/tree/master/1023-camelcase-matching) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Saransh-27/DSA-JAVA/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/Saransh-27/DSA-JAVA/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1095-find-in-mountain-array) |
@@ -214,6 +215,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0922-sort-array-by-parity-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/Saransh-27/DSA-JAVA/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
+| [1023-camelcase-matching](https://github.com/Saransh-27/DSA-JAVA/tree/master/1023-camelcase-matching) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Saransh-27/DSA-JAVA/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/Saransh-27/DSA-JAVA/tree/master/1768-merge-strings-alternately) |
 | [1813-sentence-similarity-iii](https://github.com/Saransh-27/DSA-JAVA/tree/master/1813-sentence-similarity-iii) |
@@ -331,6 +333,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0680-valid-palindrome-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0680-valid-palindrome-ii) |
 | [0848-shifting-letters](https://github.com/Saransh-27/DSA-JAVA/tree/master/0848-shifting-letters) |
 | [0925-long-pressed-name](https://github.com/Saransh-27/DSA-JAVA/tree/master/0925-long-pressed-name) |
+| [1023-camelcase-matching](https://github.com/Saransh-27/DSA-JAVA/tree/master/1023-camelcase-matching) |
 | [1108-defanging-an-ip-address](https://github.com/Saransh-27/DSA-JAVA/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Saransh-27/DSA-JAVA/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1324-print-words-vertically](https://github.com/Saransh-27/DSA-JAVA/tree/master/1324-print-words-vertically) |
@@ -399,9 +402,11 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 ## String Matching
 |  |
 | ------- |
+| [1023-camelcase-matching](https://github.com/Saransh-27/DSA-JAVA/tree/master/1023-camelcase-matching) |
 | [1668-maximum-repeating-substring](https://github.com/Saransh-27/DSA-JAVA/tree/master/1668-maximum-repeating-substring) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Saransh-27/DSA-JAVA/tree/master/0014-longest-common-prefix) |
+| [1023-camelcase-matching](https://github.com/Saransh-27/DSA-JAVA/tree/master/1023-camelcase-matching) |
 <!---LeetCode Topics End-->
