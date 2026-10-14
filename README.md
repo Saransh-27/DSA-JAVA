@@ -95,6 +95,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saransh-27/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Saransh-27/DSA-JAVA/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Saransh-27/DSA-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Saransh-27/DSA-JAVA/tree/master/0349-intersection-of-two-arrays) |
@@ -303,6 +304,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Saransh-27/DSA-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0848-shifting-letters](https://github.com/Saransh-27/DSA-JAVA/tree/master/0848-shifting-letters) |
 | [1480-running-sum-of-1d-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Saransh-27/DSA-JAVA/tree/master/1732-find-the-highest-altitude) |
