@@ -144,6 +144,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [1773-count-items-matching-a-rule](https://github.com/Saransh-27/DSA-JAVA/tree/master/1773-count-items-matching-a-rule) |
 | [1813-sentence-similarity-iii](https://github.com/Saransh-27/DSA-JAVA/tree/master/1813-sentence-similarity-iii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Saransh-27/DSA-JAVA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Saransh-27/DSA-JAVA/tree/master/1898-maximum-number-of-removable-characters) |
 | [1901-find-a-peak-element-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/Saransh-27/DSA-JAVA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1929-concatenation-of-array) |
@@ -220,6 +221,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Saransh-27/DSA-JAVA/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/Saransh-27/DSA-JAVA/tree/master/1768-merge-strings-alternately) |
 | [1813-sentence-similarity-iii](https://github.com/Saransh-27/DSA-JAVA/tree/master/1813-sentence-similarity-iii) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Saransh-27/DSA-JAVA/tree/master/1898-maximum-number-of-removable-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/Saransh-27/DSA-JAVA/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
 |  |
@@ -245,6 +247,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Saransh-27/DSA-JAVA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Saransh-27/DSA-JAVA/tree/master/1898-maximum-number-of-removable-characters) |
 | [1901-find-a-peak-element-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/1901-find-a-peak-element-ii) |
 ## Pigeonhole Principle
 |  |
@@ -350,6 +353,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [1813-sentence-similarity-iii](https://github.com/Saransh-27/DSA-JAVA/tree/master/1813-sentence-similarity-iii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Saransh-27/DSA-JAVA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1871-jump-game-vii](https://github.com/Saransh-27/DSA-JAVA/tree/master/1871-jump-game-vii) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Saransh-27/DSA-JAVA/tree/master/1898-maximum-number-of-removable-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saransh-27/DSA-JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Saransh-27/DSA-JAVA/tree/master/2000-reverse-prefix-of-word) |
 ## Divide and Conquer
