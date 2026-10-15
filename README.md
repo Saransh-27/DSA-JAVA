@@ -213,6 +213,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0455-assign-cookies](https://github.com/Saransh-27/DSA-JAVA/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0680-valid-palindrome-ii) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/Saransh-27/DSA-JAVA/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0905-sort-array-by-parity](https://github.com/Saransh-27/DSA-JAVA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/Saransh-27/DSA-JAVA/tree/master/0925-long-pressed-name) |
@@ -336,6 +337,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0557-reverse-words-in-a-string-iii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Saransh-27/DSA-JAVA/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0680-valid-palindrome-ii) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/Saransh-27/DSA-JAVA/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0848-shifting-letters](https://github.com/Saransh-27/DSA-JAVA/tree/master/0848-shifting-letters) |
 | [0925-long-pressed-name](https://github.com/Saransh-27/DSA-JAVA/tree/master/0925-long-pressed-name) |
 | [1023-camelcase-matching](https://github.com/Saransh-27/DSA-JAVA/tree/master/1023-camelcase-matching) |
