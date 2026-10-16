@@ -276,6 +276,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Saransh-27/DSA-JAVA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Saransh-27/DSA-JAVA/tree/master/1512-number-of-good-pairs) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Saransh-27/DSA-JAVA/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Saransh-27/DSA-JAVA/tree/master/1759-count-number-of-homogenous-substrings) |
 ## Interactive
 |  |
@@ -345,6 +346,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [1108-defanging-an-ip-address](https://github.com/Saransh-27/DSA-JAVA/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Saransh-27/DSA-JAVA/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1324-print-words-vertically](https://github.com/Saransh-27/DSA-JAVA/tree/master/1324-print-words-vertically) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Saransh-27/DSA-JAVA/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1528-shuffle-string](https://github.com/Saransh-27/DSA-JAVA/tree/master/1528-shuffle-string) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Saransh-27/DSA-JAVA/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1668-maximum-repeating-substring](https://github.com/Saransh-27/DSA-JAVA/tree/master/1668-maximum-repeating-substring) |
