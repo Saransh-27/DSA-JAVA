@@ -48,7 +48,7 @@ Exersise/
 │       ├── Multiarray.java          # 2D Matrix traversal & printing
 │       ├── Search2D.java            # Staircase Search in Row & Column sorted matrix
 │       ├── SortedMatrix.java        # Binary Search in Strictly Sorted 2D Matrix (4 Quadrants)
-│       └── SolutionArray.java            # Lucky Numbers in Matrix (LeetCode 1380)
+│       └── SolutionArray.java            # LeetCode problems solved locally.
 │
 ├── 📁 02-Strings/                   # Future Topic
 ├── 📁 03-Recursion/                 # Future Topic
@@ -57,7 +57,7 @@ Exersise/
 ├── 📁 06-Trees/                     # Future Topic
 ├── 📁 07-Graphs/                    # Future Topic
 │
-└── 📁 08-LeetCode-Solutions/        # Auto-pushed by LeetCode Browser Extension
+└── 📁 Indivisual folder containing leetcode code and problem statements.
 ```
 
 ---
