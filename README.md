@@ -77,6 +77,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saransh-27/DSA-JAVA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Saransh-27/DSA-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Saransh-27/DSA-JAVA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Saransh-27/DSA-JAVA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Saransh-27/DSA-JAVA/tree/master/0016-3sum-closest) |
@@ -229,6 +230,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Saransh-27/DSA-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -368,6 +370,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Saransh-27/DSA-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Saransh-27/DSA-JAVA/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
