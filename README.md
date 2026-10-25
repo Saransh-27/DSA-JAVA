@@ -111,6 +111,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0628-maximum-product-of-three-numbers](https://github.com/Saransh-27/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Saransh-27/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Saransh-27/DSA-JAVA/tree/master/0704-binary-search) |
+| [0832-flipping-an-image](https://github.com/Saransh-27/DSA-JAVA/tree/master/0832-flipping-an-image) |
 | [0848-shifting-letters](https://github.com/Saransh-27/DSA-JAVA/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/0867-transpose-matrix) |
@@ -173,6 +174,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0268-missing-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Saransh-27/DSA-JAVA/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/Saransh-27/DSA-JAVA/tree/master/0832-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
@@ -220,6 +222,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0557-reverse-words-in-a-string-iii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0680-valid-palindrome-ii) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/Saransh-27/DSA-JAVA/tree/master/0777-swap-adjacent-in-lr-string) |
+| [0832-flipping-an-image](https://github.com/Saransh-27/DSA-JAVA/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Saransh-27/DSA-JAVA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/Saransh-27/DSA-JAVA/tree/master/0925-long-pressed-name) |
@@ -308,6 +311,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0059-spiral-matrix-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Saransh-27/DSA-JAVA/tree/master/0657-robot-return-to-origin) |
+| [0832-flipping-an-image](https://github.com/Saransh-27/DSA-JAVA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1324-print-words-vertically](https://github.com/Saransh-27/DSA-JAVA/tree/master/1324-print-words-vertically) |
@@ -328,6 +332,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0059-spiral-matrix-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Saransh-27/DSA-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/Saransh-27/DSA-JAVA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/0867-transpose-matrix) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Saransh-27/DSA-JAVA/tree/master/1030-matrix-cells-in-distance-order) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
