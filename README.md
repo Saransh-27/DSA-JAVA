@@ -174,6 +174,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | ------- |
 | [0136-single-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Saransh-27/DSA-JAVA/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Saransh-27/DSA-JAVA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Saransh-27/DSA-JAVA/tree/master/0645-set-mismatch) |
@@ -278,6 +279,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0066-plus-one](https://github.com/Saransh-27/DSA-JAVA/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Saransh-27/DSA-JAVA/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Saransh-27/DSA-JAVA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Saransh-27/DSA-JAVA/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saransh-27/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -439,4 +441,8 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Saransh-27/DSA-JAVA/tree/master/0014-longest-common-prefix) |
 | [1023-camelcase-matching](https://github.com/Saransh-27/DSA-JAVA/tree/master/1023-camelcase-matching) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Saransh-27/DSA-JAVA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
