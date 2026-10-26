@@ -164,6 +164,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0217-contains-duplicate](https://github.com/Saransh-27/DSA-JAVA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Saransh-27/DSA-JAVA/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Saransh-27/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Saransh-27/DSA-JAVA/tree/master/0645-set-mismatch) |
@@ -177,6 +178,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0231-power-of-two](https://github.com/Saransh-27/DSA-JAVA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/Saransh-27/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Saransh-27/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Saransh-27/DSA-JAVA/tree/master/0832-flipping-an-image) |
 ## Sorting
@@ -191,6 +193,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0217-contains-duplicate](https://github.com/Saransh-27/DSA-JAVA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Saransh-27/DSA-JAVA/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Saransh-27/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Saransh-27/DSA-JAVA/tree/master/0455-assign-cookies) |
@@ -354,6 +357,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0058-length-of-last-word](https://github.com/Saransh-27/DSA-JAVA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Saransh-27/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Saransh-27/DSA-JAVA/tree/master/0168-excel-sheet-column-title) |
+| [0389-find-the-difference](https://github.com/Saransh-27/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Saransh-27/DSA-JAVA/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0680-valid-palindrome-ii) |
