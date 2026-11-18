@@ -179,6 +179,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0231-power-of-two](https://github.com/Saransh-27/DSA-JAVA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Saransh-27/DSA-JAVA/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Saransh-27/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Saransh-27/DSA-JAVA/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/Saransh-27/DSA-JAVA/tree/master/0645-set-mismatch) |
@@ -403,6 +404,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Saransh-27/DSA-JAVA/tree/master/0053-maximum-subarray) |
+| [0338-counting-bits](https://github.com/Saransh-27/DSA-JAVA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0509-fibonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/Saransh-27/DSA-JAVA/tree/master/1668-maximum-repeating-substring) |
 | [1871-jump-game-vii](https://github.com/Saransh-27/DSA-JAVA/tree/master/1871-jump-game-vii) |
