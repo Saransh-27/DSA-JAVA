@@ -189,6 +189,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0693-binary-number-with-alternating-bits](https://github.com/Saransh-27/DSA-JAVA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Saransh-27/DSA-JAVA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/Saransh-27/DSA-JAVA/tree/master/0832-flipping-an-image) |
+| [0868-binary-gap](https://github.com/Saransh-27/DSA-JAVA/tree/master/0868-binary-gap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Saransh-27/DSA-JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
