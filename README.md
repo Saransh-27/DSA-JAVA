@@ -134,6 +134,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Saransh-27/DSA-JAVA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1324-print-words-vertically](https://github.com/Saransh-27/DSA-JAVA/tree/master/1324-print-words-vertically) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Saransh-27/DSA-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Saransh-27/DSA-JAVA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Saransh-27/DSA-JAVA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -191,6 +192,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0832-flipping-an-image](https://github.com/Saransh-27/DSA-JAVA/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/Saransh-27/DSA-JAVA/tree/master/0868-binary-gap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Saransh-27/DSA-JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Saransh-27/DSA-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -216,6 +218,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [1030-matrix-cells-in-distance-order](https://github.com/Saransh-27/DSA-JAVA/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/Saransh-27/DSA-JAVA/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Saransh-27/DSA-JAVA/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Saransh-27/DSA-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Saransh-27/DSA-JAVA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Saransh-27/DSA-JAVA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Saransh-27/DSA-JAVA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -325,6 +328,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 ## Counting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Saransh-27/DSA-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/Saransh-27/DSA-JAVA/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Saransh-27/DSA-JAVA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Saransh-27/DSA-JAVA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
