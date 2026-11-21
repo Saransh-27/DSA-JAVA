@@ -148,6 +148,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Saransh-27/DSA-JAVA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1672-richest-customer-wealth](https://github.com/Saransh-27/DSA-JAVA/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Saransh-27/DSA-JAVA/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/Saransh-27/DSA-JAVA/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/Saransh-27/DSA-JAVA/tree/master/1773-count-items-matching-a-rule) |
 | [1813-sentence-similarity-iii](https://github.com/Saransh-27/DSA-JAVA/tree/master/1813-sentence-similarity-iii) |
@@ -197,6 +198,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Saransh-27/DSA-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Saransh-27/DSA-JAVA/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1720-decode-xored-array) |
 ## Sorting
 |  |
 | ------- |
