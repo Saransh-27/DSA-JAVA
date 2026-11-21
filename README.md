@@ -193,6 +193,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0868-binary-gap](https://github.com/Saransh-27/DSA-JAVA/tree/master/0868-binary-gap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Saransh-27/DSA-JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Saransh-27/DSA-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1486-xor-operation-in-an-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -311,6 +312,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Saransh-27/DSA-JAVA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Saransh-27/DSA-JAVA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Saransh-27/DSA-JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Saransh-27/DSA-JAVA/tree/master/1512-number-of-good-pairs) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Saransh-27/DSA-JAVA/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Saransh-27/DSA-JAVA/tree/master/1759-count-number-of-homogenous-substrings) |
