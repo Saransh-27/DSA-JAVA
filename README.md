@@ -147,6 +147,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [1572-matrix-diagonal-sum](https://github.com/Saransh-27/DSA-JAVA/tree/master/1572-matrix-diagonal-sum) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Saransh-27/DSA-JAVA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1672-richest-customer-wealth](https://github.com/Saransh-27/DSA-JAVA/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Saransh-27/DSA-JAVA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/Saransh-27/DSA-JAVA/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/Saransh-27/DSA-JAVA/tree/master/1773-count-items-matching-a-rule) |
 | [1813-sentence-similarity-iii](https://github.com/Saransh-27/DSA-JAVA/tree/master/1813-sentence-similarity-iii) |
@@ -171,6 +172,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Saransh-27/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [1512-number-of-good-pairs](https://github.com/Saransh-27/DSA-JAVA/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Saransh-27/DSA-JAVA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Saransh-27/DSA-JAVA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Bit Manipulation
 |  |
@@ -194,6 +196,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Saransh-27/DSA-JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Saransh-27/DSA-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1486-xor-operation-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Saransh-27/DSA-JAVA/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -332,6 +335,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Saransh-27/DSA-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/Saransh-27/DSA-JAVA/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Saransh-27/DSA-JAVA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Saransh-27/DSA-JAVA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Saransh-27/DSA-JAVA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Simulation
@@ -395,6 +399,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Saransh-27/DSA-JAVA/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1668-maximum-repeating-substring](https://github.com/Saransh-27/DSA-JAVA/tree/master/1668-maximum-repeating-substring) |
 | [1678-goal-parser-interpretation](https://github.com/Saransh-27/DSA-JAVA/tree/master/1678-goal-parser-interpretation) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Saransh-27/DSA-JAVA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Saransh-27/DSA-JAVA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Saransh-27/DSA-JAVA/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Saransh-27/DSA-JAVA/tree/master/1768-merge-strings-alternately) |
