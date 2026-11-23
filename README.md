@@ -94,6 +94,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0078-subsets](https://github.com/Saransh-27/DSA-JAVA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Saransh-27/DSA-JAVA/tree/master/0162-find-peak-element) |
@@ -179,6 +180,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Saransh-27/DSA-JAVA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Saransh-27/DSA-JAVA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Saransh-27/DSA-JAVA/tree/master/0191-number-of-1-bits) |
@@ -490,6 +492,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Saransh-27/DSA-JAVA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0090-subsets-ii) |
 ## Primality Test
 |  |
 | ------- |
