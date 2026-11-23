@@ -1,16 +1,20 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> outer = new ArrayList<>();
-        outer.add(new ArrayList<>());
-        for (int num : nums) {
-            int n = outer.size();
-            for (int i = 0; i < n; i++) {
-                List<Integer> internal = new ArrayList<>(outer.get(i));
-                internal.add(num);
-                outer.add(internal);
-            }
-        }
-        return outer;
+        return subset(new ArrayList<>(), nums, 0);
     }
 
+    public List<List<Integer>> subset(List<Integer> p, int[] up, int start) {
+        if (start == up.length) {
+            List<List<Integer>> list = new ArrayList<>();
+            list.add(p);
+            return list;
+        }
+        int elm = up[start];
+        List<List<Integer>> left = subset(p, up, start + 1);
+        List<Integer> newP = new ArrayList<>(p);
+        newP.add(elm);
+        List<List<Integer>> right = subset(newP, up, start + 1);
+        left.addAll(right);
+        return left;
+    }
 }
