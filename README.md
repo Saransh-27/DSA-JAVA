@@ -267,6 +267,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Saransh-27/DSA-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Saransh-27/DSA-JAVA/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Saransh-27/DSA-JAVA/tree/master/0162-find-peak-element) |
@@ -303,6 +304,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0009-palindrome-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Saransh-27/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Saransh-27/DSA-JAVA/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Saransh-27/DSA-JAVA/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Saransh-27/DSA-JAVA/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Saransh-27/DSA-JAVA/tree/master/0231-power-of-two) |
@@ -497,4 +499,8 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Saransh-27/DSA-JAVA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Saransh-27/DSA-JAVA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
