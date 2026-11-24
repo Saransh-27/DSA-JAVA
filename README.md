@@ -153,6 +153,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [1732-find-the-highest-altitude](https://github.com/Saransh-27/DSA-JAVA/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/Saransh-27/DSA-JAVA/tree/master/1773-count-items-matching-a-rule) |
 | [1813-sentence-similarity-iii](https://github.com/Saransh-27/DSA-JAVA/tree/master/1813-sentence-similarity-iii) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Saransh-27/DSA-JAVA/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Saransh-27/DSA-JAVA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Saransh-27/DSA-JAVA/tree/master/1898-maximum-number-of-removable-characters) |
 | [1901-find-a-peak-element-ii](https://github.com/Saransh-27/DSA-JAVA/tree/master/1901-find-a-peak-element-ii) |
@@ -201,6 +202,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [1486-xor-operation-in-an-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Saransh-27/DSA-JAVA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1720-decode-xored-array) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Saransh-27/DSA-JAVA/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 ## Sorting
 |  |
 | ------- |
@@ -325,6 +327,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [1512-number-of-good-pairs](https://github.com/Saransh-27/DSA-JAVA/tree/master/1512-number-of-good-pairs) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Saransh-27/DSA-JAVA/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Saransh-27/DSA-JAVA/tree/master/1759-count-number-of-homogenous-substrings) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Saransh-27/DSA-JAVA/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 ## Interactive
 |  |
 | ------- |
