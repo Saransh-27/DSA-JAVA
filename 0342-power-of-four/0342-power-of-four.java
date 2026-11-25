@@ -1,10 +1,10 @@
 class Solution {
     public boolean isPowerOfFour(int n) {
         int start = 0;
-        int end = n - 1;
+        int end = 15;
         while (start <= end) {
             int mid = start + (end - start) / 2;
-            double num = Math.pow(4, mid);
+            long num = 1L << (2 * mid);
             if (num == n) {
                 return true;
             }
