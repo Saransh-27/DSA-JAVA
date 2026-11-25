@@ -189,6 +189,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0268-missing-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Saransh-27/DSA-JAVA/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Saransh-27/DSA-JAVA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Saransh-27/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Saransh-27/DSA-JAVA/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Saransh-27/DSA-JAVA/tree/master/0476-number-complement) |
@@ -311,6 +312,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0189-rotate-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Saransh-27/DSA-JAVA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Saransh-27/DSA-JAVA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Saransh-27/DSA-JAVA/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saransh-27/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -488,6 +490,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Saransh-27/DSA-JAVA/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Saransh-27/DSA-JAVA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
