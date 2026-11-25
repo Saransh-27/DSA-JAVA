@@ -165,6 +165,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saransh-27/DSA-JAVA/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Saransh-27/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Saransh-27/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Saransh-27/DSA-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Saransh-27/DSA-JAVA/tree/master/0217-contains-duplicate) |
@@ -305,6 +306,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Saransh-27/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Saransh-27/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Saransh-27/DSA-JAVA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Saransh-27/DSA-JAVA/tree/master/0069-sqrtx) |
@@ -388,6 +390,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Saransh-27/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Saransh-27/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Saransh-27/DSA-JAVA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Saransh-27/DSA-JAVA/tree/master/0058-length-of-last-word) |
