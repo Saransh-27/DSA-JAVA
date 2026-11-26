@@ -308,6 +308,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0009-palindrome-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Saransh-27/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Saransh-27/DSA-JAVA/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Saransh-27/DSA-JAVA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Saransh-27/DSA-JAVA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Saransh-27/DSA-JAVA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Saransh-27/DSA-JAVA/tree/master/0069-sqrtx) |
@@ -495,6 +496,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Saransh-27/DSA-JAVA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Saransh-27/DSA-JAVA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Saransh-27/DSA-JAVA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0509-fibonacci-number) |
