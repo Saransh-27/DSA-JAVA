@@ -329,6 +329,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Saransh-27/DSA-JAVA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Saransh-27/DSA-JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1486-xor-operation-in-an-array) |
+| [1492-the-kth-factor-of-n](https://github.com/Saransh-27/DSA-JAVA/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/Saransh-27/DSA-JAVA/tree/master/1512-number-of-good-pairs) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Saransh-27/DSA-JAVA/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Saransh-27/DSA-JAVA/tree/master/1759-count-number-of-homogenous-substrings) |
@@ -518,4 +519,12 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Saransh-27/DSA-JAVA/tree/master/0062-unique-paths) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Saransh-27/DSA-JAVA/tree/master/1492-the-kth-factor-of-n) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Saransh-27/DSA-JAVA/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
