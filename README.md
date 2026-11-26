@@ -308,6 +308,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0009-palindrome-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Saransh-27/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Saransh-27/DSA-JAVA/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Saransh-27/DSA-JAVA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Saransh-27/DSA-JAVA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Saransh-27/DSA-JAVA/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Saransh-27/DSA-JAVA/tree/master/0168-excel-sheet-column-title) |
@@ -436,6 +437,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Saransh-27/DSA-JAVA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Saransh-27/DSA-JAVA/tree/master/0062-unique-paths) |
 | [0338-counting-bits](https://github.com/Saransh-27/DSA-JAVA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0509-fibonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/Saransh-27/DSA-JAVA/tree/master/1668-maximum-repeating-substring) |
@@ -512,4 +514,8 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Saransh-27/DSA-JAVA/tree/master/0069-sqrtx) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Saransh-27/DSA-JAVA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
