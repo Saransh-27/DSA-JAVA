@@ -177,6 +177,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0645-set-mismatch](https://github.com/Saransh-27/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [1512-number-of-good-pairs](https://github.com/Saransh-27/DSA-JAVA/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Saransh-27/DSA-JAVA/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1763-longest-nice-substring](https://github.com/Saransh-27/DSA-JAVA/tree/master/1763-longest-nice-substring) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Saransh-27/DSA-JAVA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Bit Manipulation
 |  |
@@ -204,6 +205,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [1486-xor-operation-in-an-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Saransh-27/DSA-JAVA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Saransh-27/DSA-JAVA/tree/master/1720-decode-xored-array) |
+| [1763-longest-nice-substring](https://github.com/Saransh-27/DSA-JAVA/tree/master/1763-longest-nice-substring) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Saransh-27/DSA-JAVA/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 ## Sorting
 |  |
@@ -421,6 +423,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [1684-count-the-number-of-consistent-strings](https://github.com/Saransh-27/DSA-JAVA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Saransh-27/DSA-JAVA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Saransh-27/DSA-JAVA/tree/master/1759-count-number-of-homogenous-substrings) |
+| [1763-longest-nice-substring](https://github.com/Saransh-27/DSA-JAVA/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/Saransh-27/DSA-JAVA/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/Saransh-27/DSA-JAVA/tree/master/1773-count-items-matching-a-rule) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Saransh-27/DSA-JAVA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -437,6 +440,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0053-maximum-subarray](https://github.com/Saransh-27/DSA-JAVA/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Saransh-27/DSA-JAVA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Saransh-27/DSA-JAVA/tree/master/0191-number-of-1-bits) |
+| [1763-longest-nice-substring](https://github.com/Saransh-27/DSA-JAVA/tree/master/1763-longest-nice-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -480,6 +484,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 ## Sliding Window
 |  |
 | ------- |
+| [1763-longest-nice-substring](https://github.com/Saransh-27/DSA-JAVA/tree/master/1763-longest-nice-substring) |
 | [1871-jump-game-vii](https://github.com/Saransh-27/DSA-JAVA/tree/master/1871-jump-game-vii) |
 ## Stack
 |  |
