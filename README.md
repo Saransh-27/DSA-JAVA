@@ -325,6 +325,7 @@ Every algorithm program includes a comprehensive block comment (`/* ... */`) con
 | [0367-valid-perfect-square](https://github.com/Saransh-27/DSA-JAVA/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saransh-27/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/Saransh-27/DSA-JAVA/tree/master/0728-self-dividing-numbers) |
 | [0754-reach-a-number](https://github.com/Saransh-27/DSA-JAVA/tree/master/0754-reach-a-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Saransh-27/DSA-JAVA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0976-largest-perimeter-triangle](https://github.com/Saransh-27/DSA-JAVA/tree/master/0976-largest-perimeter-triangle) |
